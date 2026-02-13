@@ -1,0 +1,41 @@
+Containerization with Podman:
+This session introduced containerization using **Podman**, including running Jupyter Lab and a local LLM (Ollama) inside containers, networking them, and building a Flask application.
+
+Key Learnings:
+1.Introduction to Containerization;
+- Containers package applications with their dependencies.
+- Podman is used to create and manage containers in WSL.
+- Containers are lightweight compared to virtual machines.
+
+2.Project 1: Jupyter Lab in a Container:
+- Pulled a Jupyter Lab image.
+- Ran and managed containers.
+- Used port binding to access Jupyter from the browser.
+- Mounted volumes to persist data outside the container.
+
+3.Project 2: Running a Local LLM (Ollama):
+- Containerized Ollama to run a local LLM.
+- Interacted with the LLM inside the container.
+- Understood how AI models can run locally using containers.
+
+4.Project 3: Container Networking:
+- Created networking between multiple containers.
+- Enabled API communication between containers.
+- Learned how services inside containers talk to each other.
+
+5.Flask App with LLM Backend:
+- Built a Flask web app.
+- Connected the Flask app to the LLM container.
+- Demonstrated API calls between backend services.
+
+6.Troubleshooting:
+- Resolved common WSL networking issues.
+- Understood debugging steps for container communication.
+
+What I Took Away:
+- Podman helps isolate and manage applications using containers.
+- Port binding and volume mounting are essential concepts.
+- Containers can communicate through networking.
+- It is possible to build a web app that uses an LLM running in another container.
+- Containerization is important for scalable and reproducible development.
+
