@@ -1,0 +1,37 @@
+Git & GitHub Setup:
+This session covered how to set up **Git and GitHub** for the TDS course, including SSH setup, repository creation, cloning, and common troubleshooting.
+
+Key Learnings:
+
+1.GitHub and Git Installation;
+- Learned how to install Git.
+- Understood why Git is essential for version control.
+
+2.Creating and Managing Repositories:
+- Created a repository on GitHub.
+- Added files using the GitHub web interface.
+
+3.SSH Key Setup:
+- Generated an **SSH key** locally.
+- Added the public SSH key to GitHub.
+- Learned why SSH is more secure than HTTPS.
+
+4.Cloning and Connection Issues:
+- Cloned the repository using SSH.
+- Troubleshot common connection errors.
+
+5.Local Changes and Pushing:
+- Added new files locally.
+- Committed changes with clear messages.
+- Pushed changes to GitHub.
+- Troubleshot permission and push errors.
+
+- Learned the importance of using Linux/WSL for development.
+- Discussed Python environments with **UV**.
+- Introduction to **GitHub Copilot**.
+
+What I Took Away:
+- Git & GitHub are core tools for collaboration.
+- SSH keys make secure connections between local machines and GitHub.
+- Understanding errors and how to fix them is part of real-world development.
+
