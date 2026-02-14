@@ -1,0 +1,35 @@
+macOS & Linux Development Environment Setup:
+This session shows how to set up a development environment on **macOS and Linux**, including **VS Code**, **Homebrew**, **Git**, **pyenv**, **UV**, and **LLM CLI tools**.
+
+Key Learnings:
+
+VS Code & GitHub Tools:
+- Installed "VS Code" editor.
+- Set up "GitHub Education Pack" and "Copilot".
+
+Homebrew Package Manager:
+- Installed "Homebrew" on macOS.
+- Added Homebrew to system "PATH".
+- Used Homebrew to install other tools.
+
+Python Version Management:
+- Installed "pyenv" for managing multiple Python versions.
+- Set project-specific Python versions using pyenv.
+
+UV Project Tool:
+- Installed and used "UV" for project management and tool installation.
+
+GitHub CLI:
+- Installed "GitHub CLI" (`gh`).
+- Created a GitHub repository directly from the terminal.
+
+LLM Command-Line Tool:
+- Installed the "LLM CLI" tool.
+- Configured "Gemini" API key for LLM.
+- Ran a demo to "transcribe audio" using the LLM CLI tool.
+
+What I Took Away:
+- VS Code, Homebrew, GitHub CLI, and pyenv form the foundation of a developer setup.
+- UV helps manage tools and project environments.
+- LLM CLI can be configured to use AI models like Gemini for tasks like transcription.
+
