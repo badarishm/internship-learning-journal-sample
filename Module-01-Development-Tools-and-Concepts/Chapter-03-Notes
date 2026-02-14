@@ -1,0 +1,35 @@
+WSL, Linux Navigation & LLM Tools:
+This session teaches how to use "WSL and basic Linux commands", and how to set up and use "UV & LLM tools" to interact with "Gemini" and "GPT" models from the terminal.
+
+Key Learnings:
+WSL & System Basics
+- WSL lets you run Linux inside Windows.
+- Learned what hypervisors are and their role in virtualization.
+
+Linux File System:
+- Navigated Ubuntu’s file system inside WSL.
+- Learned difference between "absolute" and "relative paths".
+- Compared Linux and Windows directory structures.
+- Explored key directories and how to move between them.
+
+Command-Line Importance;
+- Q&A on why learning command-line tools matters for development.
+
+VS Code Integration;
+- Integrated **VS Code terminal** with WSL for smooth workflow.
+
+Installing Tools;
+- Installed the "UV" tool.
+- Installed the "LLM" tool via UV.
+
+API Keys Setup:
+- Configured "Gemini API Key".
+- Configured "OpenAI & AI-Pipe API Keys".
+
+Using LLM from Terminal:
+- Learned how to use the `llm` command to interact with GPT and Gemini models.
+
+What I Took Away:
+- WSL and terminal navigation are key skills for development.
+- UV and LLM tools let you use AI models directly in the terminal.
+- Knowing how to set API keys is essential to connect tools with real AI services.
