@@ -1,0 +1,29 @@
+ WSL, Ubuntu & Git – Summary
+
+This session provided a hands-on guide to installing and using **Windows Subsystem for Linux (WSL)** and **Ubuntu**, along with an introduction to **Git** and GitHub workflow.
+
+Intro & Terminals:
+- Learned what WSL is and why Linux terminals are useful.
+- Understood differences between WSL and VirtualBox.
+- WSL is lighter and integrates better with Windows.
+ 
+Installing WSL & Ubuntu:
+- Walked through enabling Windows features needed for WSL.
+- Installed Ubuntu on WSL.
+- Learned how to open and use the Linux terminal.
+- Explored WSL file system and basic navigation.
+
+- Learned how to fix issues such as forgetting Ubuntu password by reinstalling.
+
+ Git:
+- Git version control basics were explained.
+- Learned Git workflow: commit, push, pull, branch.
+- Connected Git with GitHub for sharing and collaboration.
+
+- Discussed GitHub policies, course difficulty, and future topics.
+
+- WSL allows me to run Linux inside Windows easily.
+- I can use Ubuntu terminal for development tools and workflows.
+- Git is essential for version control and collaboration.
+- GitHub integrates with Git to store and share code.
+
