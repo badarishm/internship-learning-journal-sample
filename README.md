@@ -41,11 +41,11 @@ Course Link: https://tds.s-anand.net/#/
 ---
 
 ## 🚀 Key Learnings So Far
-# Week 1 – Learning Summary
+# Week 1 – Learnings
 
 Week 1 focused on building the foundational setup and understanding the essential tools required for development in the TDS course.
 
-## Key Learnings
+
 
 1. Set up WSL (Windows Subsystem for Linux) and installed Ubuntu to create a Linux-based development environment on Windows.
 2. Learned the importance of Linux in real-world development and why many tools work better in a Unix-like environment.
@@ -77,7 +77,7 @@ Week 1 focused on building the foundational setup and understanding the essentia
 
 In Week 2, I moved from basic setup into hands-on development, deployment, and AI tool integration.
 
-## Key Learnings
+
 
 1. Learned how containerization works using Podman and understood how containers isolate applications along with their dependencies.
 
