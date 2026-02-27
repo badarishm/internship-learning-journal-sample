@@ -1,8 +1,8 @@
-# 🌐 Data Sourcing & Web Scraping – Summary
+#  Data Sourcing & Web Scraping – Summary
 
 This session covered different ways of collecting and extracting data from websites, documents, and APIs using both manual and automated tools.
 
-## 📌 Key Learnings
+## Key Learnings
 
 ### Data Sourcing
 - Collected data using spreadsheets like Excel and Google Sheets.
@@ -34,11 +34,12 @@ This session covered different ways of collecting and extracting data from websi
 ### Practical Use
 - Learned how to convert raw scraped data into useful insights.
 
-## 🧠 What I Took Away
+##  What I Took Away
 
 - Data can be collected using multiple tools and methods.
 - APIs provide structured and reliable data access.
 - Automation makes scraping faster and scalable.
 - AI can enhance scraping from complex sources.
 - Scheduling helps maintain updated datasets.
+
 
