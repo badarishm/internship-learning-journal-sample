@@ -75,6 +75,46 @@ Week 1 focused on building the foundational setup and understanding the essentia
 
 Week 1 helped me understand how to set up my development system, use Linux effectively, and manage code using Git and GitHub.
 
+# Week 2 – Learnings
+
+In Week 2, I moved from basic setup into hands-on development, deployment, and AI tool integration.
+
+## Key Learnings
+
+1. Learned how containerization works using Podman and understood how containers isolate applications along with their dependencies.
+
+2. Deployed development tools like Jupyter Lab and local LLMs inside containers and learned how to manage container lifecycle.
+
+3. Understood port binding and volume mounting to make container services accessible and persist data.
+
+4. Explored container networking to allow communication between multiple services such as backend apps and AI models.
+
+5. Built a FastAPI application and learned how APIs are structured using routes, requests, and responses.
+
+6. Practiced handling GET and POST requests in FastAPI and understood how backend services interact with frontend or external tools.
+
+7. Learned how to deploy applications using platforms like Hugging Face Spaces and GitHub Pages.
+
+8. Understood real-world deployment challenges such as environment configuration and runtime limitations.
+
+9. Used GitHub Codespaces for cloud-based development without relying on local machine setup.
+
+10. Learned how GitHub Actions can automate workflows like testing and deployment.
+
+11. Integrated LLM tools into development workflows and understood how APIs connect AI models to applications.
+
+12. Practiced managing API keys securely using environment variables.
+
+13. Understood how development workflows improve when tools like containers, APIs, and automation are combined.
+
+14. Learned how real-world applications connect backend logic with AI capabilities.
+
+15. Improved repository structure by organizing chapters, notes, and hands-on learnings for better documentation.
+
+## Takeaway
+
+Week 2 helped me transition from basic environment setup to building and deploying real-world applications using containers, APIs, cloud tools, and automation.
+
 
 ---
 
