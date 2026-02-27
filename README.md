@@ -87,9 +87,7 @@ Week 1 helped me understand how to set up my development system, use Linux effec
 ## 🔄 Weekly Update Log
 | Week | What I Learned |
 |------|----------------|
-| Week 1 | In Week 1, I set up a Linux-based development environment using WSL and learned essential terminal and file system navigation skills.
-I installed and configured Git and GitHub, including SSH authentication, to manage version control and collaboration.
-|
+| Week 1 | In Week 1, I set up a Linux-based development environment using WSL and learned essential terminal and file system navigation skills.I installed and configured Git and GitHub, including SSH authentication, to manage version control and collaboration.|
 | Week 2 | |
 
 ---
