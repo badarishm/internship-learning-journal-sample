@@ -71,9 +71,7 @@ Week 1 focused on building the foundational setup and understanding the essentia
 19. Understood how tools and workflows are as important as coding.
 20. Built a strong foundation for working in a collaborative development environment.
 
-## Takeaway
 
-Week 1 helped me understand how to set up my development system, use Linux effectively, and manage code using Git and GitHub.
 
 # Week 2 – Learnings
 
@@ -111,9 +109,7 @@ In Week 2, I moved from basic setup into hands-on development, deployment, and A
 
 15. Improved repository structure by organizing chapters, notes, and hands-on learnings for better documentation.
 
-## Takeaway
 
-Week 2 helped me transition from basic environment setup to building and deploying real-world applications using containers, APIs, cloud tools, and automation.
 
 
 ---
