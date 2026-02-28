@@ -110,6 +110,54 @@ In Week 2, I moved from basic setup into hands-on development, deployment, and A
 15. Improved repository structure by organizing chapters, notes, and hands-on learnings for better documentation.
 
 
+#  Week 3 – Learnings
+
+In Week 3, I focused on understanding how modern AI systems work using embeddings, vector databases, RAG, APIs, and function calling, along with practical implementation.
+
+
+
+1. Learned how Large Language Models (LLMs) work using tokens, transformers, and self-attention mechanisms.
+
+2. Understood how APIs connect applications to AI models and practiced making API calls using httpx and curl.
+
+3. Learned how to securely manage API keys using environment variables and `.bashrc`.
+
+4. Built chatbot systems using structured conversation roles:
+   - system
+   - user
+   - assistant
+
+5. Learned how embeddings convert text and images into vectors for semantic understanding.
+
+6. Used similarity techniques such as cosine similarity and vector distance to retrieve meaningful results.
+
+7. Understood how vector databases store embeddings for fast similarity search.
+
+8. Learned Retrieval Augmented Generation (RAG) to improve response accuracy by retrieving relevant data.
+
+9. Implemented Hybrid RAG by combining similarity-based retrieval with structured search.
+
+10. Practiced chunking large documents into smaller sections to stay within token limits.
+
+11. Learned how multimodal models process both text and images using Base64 encoding.
+
+12. Extracted structured data using function calling and defined schemas for automation.
+
+13. Built similarity-based question answering systems using embeddings.
+
+14. Used NumPy for vector operations and async API calls for better performance.
+
+15. Understood the importance of prompt engineering for improving LLM responses.
+
+16. Learned about evaluation techniques to ensure reliability and cost efficiency.
+
+17. Debugged API issues and deployment problems related to FastAPI and environment configuration.
+
+18. Understood how agents and tools help automate complex workflows.
+
+19. Applied these concepts in Project 1 using embeddings and retrieval logic.
+
+20. Learned how secure API handling and structured workflows are essential for real-world AI applications.
 
 
 ---
