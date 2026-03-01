@@ -173,7 +173,7 @@ In Week 3, I focused on understanding how modern AI systems work using embedding
 |------|----------------|
 | Week 1 | In Week 1, I set up a Linux-based development environment using WSL and learned essential terminal and file system navigation skills.I installed and configured Git and GitHub, including SSH authentication, to manage version control and collaboration.|
 | Week 2 |In Week 2, I learned how to build and deploy applications using containers, FastAPI, and cloud platforms like GitHub Pages and Hugging Face.I gained hands-on experience with container networking, API integration, and managing secure environment configurations.|
-
+| Week 3 | Learned how AI systems use embeddings, vector databases, and RAG to retrieve and generate meaningful responses.I practiced working with APIs, multimodal data, function calling, and similarity-based search techniques. |
 ---
 
 
