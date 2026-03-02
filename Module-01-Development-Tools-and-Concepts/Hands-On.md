@@ -4,28 +4,29 @@
 
 ### Types of Commands that are being used
 
--1. wsl --update
+1. wsl --update
 
--2. wsl --list --online
+2. wsl --list --online
 
--3. wsl --install Ubuntu-24.04
+3. wsl --install Ubuntu-24.04
 
--4. sudo apt update && sudo apt upgrade -y
+4. sudo apt update && sudo apt upgrade -y
 
 
 
 ### Steps that are  followed 
 
--1. Opened PowerShell as Administrator
+1. Opened PowerShell as Administrator
 
--2. Installed Ubuntu 24.04
+2. Installed Ubuntu 24.04
 
--3. Created Linux username and password
+3. Created Linux username and password
 
--4. Updated packages inside Ubuntu
+4. Updated packages inside Ubuntu
 
 
 
 ### Result I obtained
 
 Successfully installed WSL and Ubuntu. Verified installation.
+
