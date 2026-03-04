@@ -160,6 +160,47 @@ In Week 3, I focused on understanding how modern AI systems work using embedding
 20. Learned how secure API handling and structured workflows are essential for real-world AI applications.
 
 
+#  Week 4 – Learnings
+
+In Week 4, I learned how to collect, extract, and automate data using spreadsheets, APIs, web scraping tools, and AI-based techniques.
+
+
+1. Learned how to source data using spreadsheets like Excel and Google Sheets.
+
+2. Practiced basic scraping using spreadsheet functions for simple data extraction.
+
+3. Used command-line tools to crawl websites and collect structured information.
+
+4. Retrieved data from APIs such as:
+   - BBC Weather API
+   - Nominatim API
+   - Wikipedia API
+
+5. Scraped web data using JavaScript from websites like IMDb.
+
+6. Automated browser tasks using Playwright for dynamic content scraping.
+
+7. Extracted structured data from PDF documents using Tabula.
+
+8. Converted PDFs and HTML content into Markdown for easier processing.
+
+9. Used AI-based tools to scrape and extract information from websites.
+
+10. Applied AI techniques to extract insights from video content.
+
+11. Learned how to schedule scraping tasks using GitHub Actions.
+
+12. Worked with real-world data sources like emarketer.
+
+13. Understood how automation improves scalability of data collection.
+
+14. Learned how to transform raw scraped data into meaningful insights.
+
+15. Explored how combining APIs, automation, and AI improves data sourcing workflows.
+
+
+
+
 ---
 
 ## ❓ Doubts / Topics to Revisit
