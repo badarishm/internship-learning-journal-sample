@@ -199,6 +199,43 @@ In Week 4, I learned how to collect, extract, and automate data using spreadshee
 
 15. Explored how combining APIs, automation, and AI improves data sourcing workflows.
 
+# Week 5 – Learnings
+
+In Week 5, I learned how to clean, transform, and prepare raw data using spreadsheets, command-line tools, databases, and specialized data preparation tools.
+
+
+1. Learned how to clean messy datasets in Excel by removing duplicates, correcting errors, and standardizing formats.
+
+2. Practiced data transformation in Excel to restructure raw data into a more usable format.
+
+3. Split combined text fields into multiple columns to improve data organization and analysis.
+
+4. Performed data aggregation to summarize large datasets and extract useful insights.
+
+5. Used command-line tools to clean and transform data efficiently.
+
+6. Edited and processed datasets directly using terminal-based editors.
+
+7. Learned how shell tools help automate repetitive data preparation tasks.
+
+8. Used DuckDB to process and analyze large datasets efficiently using SQL queries.
+
+9. Applied dbt to organize and manage structured data transformation workflows.
+
+10. Used OpenRefine for advanced data cleaning tasks such as clustering and normalization.
+
+11. Parsed JSON data into structured formats that can be easily analyzed.
+
+12. Transformed and processed images for structured data use.
+
+13. Extracted audio from media files and generated transcripts for further processing.
+
+14. Learned how data preparation improves data quality and reliability for analysis.
+
+15. Understood that proper data cleaning and transformation are essential before performing any analysis or building models.
+
+
+
 
 
 
