@@ -254,6 +254,7 @@ In Week 5, I learned how to clean, transform, and prepare raw data using spreads
 | Week 2 |In Week 2, I learned how to build and deploy applications using containers, FastAPI, and cloud platforms like GitHub Pages and Hugging Face.I gained hands-on experience with container networking, API integration, and managing secure environment configurations.|
 | Week 3 | Learned how AI systems use embeddings, vector databases, and RAG to retrieve and generate meaningful responses.I practiced working with APIs, multimodal data, function calling, and similarity-based search techniques. |
 | Week 4 | Learned how to collect and extract data using spreadsheets, APIs, and web scraping tools.And practiced automating data collection using Playwright, CLI tools, and GitHub Actions. |
+| Week 5 | Learned how to clean, transform, and prepare raw data using tools like Excel, command-line utilities, DuckDB, and OpenRefine.Practiced working with structured and semi-structured data such as JSON, images, and audio transcripts. |
 ---
 
 
