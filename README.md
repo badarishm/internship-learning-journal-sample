@@ -26,6 +26,8 @@ Course Link: https://tds.s-anand.net/#/
 | Module 02 | Tools & Implementation | Completed |
 | Module 03 | LLM Concepts, Embeddings, RAG, Multimodal & Deployment	 | Completed |
 | Module 04 | Data Sourcing, API usage, Automation, AI-based scraping, Web scraping | Completed |
+| Module 05 | Data Preparation, JSON & Media Data, Cleaning, DuckDB, Shell Processing, dbt, OpenRefine |	Completed |
+
 
 ---
 
