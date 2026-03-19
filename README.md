@@ -234,10 +234,37 @@ In Week 5, I learned how to clean, transform, and prepare raw data using spreads
 
 14. Learned how data preparation improves data quality and reliability for analysis.
 
-15. Understood that proper data cleaning and transformation are essential before performing any analysis or building models.
+15. Understood that proper data cleaning and transformation are essential before performing any analysis or building 
 
 
+# Week 6 – Learnings 
 
+This module focused on understanding different techniques and tools used to analyze datasets and extract meaningful insights.
+
+
+1. Learned how to perform **data analysis using Excel**, including organizing datasets, filtering values, and calculating statistics.
+
+2. Explored **correlation analysis in Excel** to understand relationships between variables and determine how strongly two variables are related.
+
+3. Practiced **regression analysis in Excel** to model relationships between variables and predict future outcomes based on historical data.
+
+4. Learned **forecasting techniques in Excel** to predict trends and future values using existing data patterns.
+
+5. Studied **outlier detection in Excel**, identifying unusual or extreme values that can affect the accuracy of analysis.
+
+6. Performed **data analysis using Python**, using libraries and scripts to process, analyze, and visualize datasets programmatically.
+
+7. Learned how to analyze data using **SQL queries**, allowing efficient data exploration directly within databases.
+
+8. Explored **database-based analysis tools** like Datasette and DuckDB to perform fast queries and analysis on structured datasets.
+
+9. Understood how **AI-assisted analysis (Vibe Analysis)** can use LLMs to automate exploration, cleaning, modeling, and visualization of data. :contentReference[oaicite:0]{index=0}
+
+10. Learned **geospatial data analysis**, working with location-based data using Excel, Python, and GIS tools like QGIS.
+
+11. Studied **network analysis in Python** to analyze relationships and connections between entities in datasets.
+
+12. Understood how combining different tools (Excel, Python, SQL, databases, and AI) can provide powerful insights from complex data.
 
 
 
