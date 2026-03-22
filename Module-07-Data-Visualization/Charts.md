@@ -24,8 +24,8 @@ plt.show()
 
 ### 2. Line Chart:
 Line charts are used to show trends over time. Data points are connected using lines, making it easy to observe increases or decreases. This is commonly used for time-series data like stock prices or temperature changes.
-import matplotlib.pyplot as plt
 
+import matplotlib.pyplot as plt
 x = [1, 2, 3, 4]
 y = [10, 15, 25, 30]
 
@@ -37,8 +37,8 @@ plt.show()
 
 ### 3. Pie Chart:
 Pie charts represent proportions of a whole. Each slice shows the contribution of a category. It is useful for showing percentage distribution but should be used carefully when there are too many categories.
-import matplotlib.pyplot as plt
 
+import matplotlib.pyplot as plt
 labels = ['A', 'B', 'C']
 sizes = [40, 35, 25]
 
@@ -48,8 +48,8 @@ plt.show()
 
 ### 4. Histogram:
 Histograms are used to show the distribution of numerical data. They group data into ranges (bins) and display how frequently values occur within each range.
-import matplotlib.pyplot as plt
 
+import matplotlib.pyplot as plt
 data = [1,2,2,3,3,3,4,4,5]
 
 plt.hist(data, bins=5)
@@ -58,8 +58,8 @@ plt.show()
 
 ### 5. Scatter Plot:
 Scatter plots show relationships between two variables. Each point represents a data pair, helping identify correlations, clusters, or trends.
-import matplotlib.pyplot as plt
 
+import matplotlib.pyplot as plt
 x = [1, 2, 3, 4]
 y = [10, 20, 25, 30]
 
