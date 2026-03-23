@@ -266,6 +266,38 @@ This module focused on understanding different techniques and tools used to anal
 
 12. Understood how combining different tools (Excel, Python, SQL, databases, and AI) can provide powerful insights from complex data.
 
+#  Week 7 – Learnings:
+
+1. Learned the importance of data visualization in presenting complex data in a simple and understandable format.
+
+2. Understood the concept of data storytelling and how visuals help communicate insights effectively.
+
+3. Explored presentation tools like RevealJS and Marp for creating structured, code-based presentations.
+
+4. Learned how interactive notebooks like Marimo combine code, visuals, and explanations in one place.
+
+5. Practiced creating charts in Excel for quick and basic data visualization.
+
+6. Learned how to visualize forecasts in Excel to predict future trends using historical data.
+
+7. Explored static visualization tools like RAWGraphs for quick chart generation.
+
+8. Used Python libraries like Seaborn to create advanced statistical visualizations.
+
+9. Understood the difference between static and dynamic visualizations.
+
+10. Learned how to create animated visualizations using tools like PowerPoint.
+
+11. Explored platforms like Flourish to create interactive and animated data visualizations.
+
+12. Studied network visualization using tools like Kumu to represent relationships between entities.
+
+13. Learned about actor network visualization for understanding connections in systems.
+
+14. Explored AI-based visualization using ChatGPT for generating insights and explaining data.
+
+15. Understood how LLMs can be used for data storytelling and automated insight generation.
+
 
 
 ---
@@ -285,6 +317,7 @@ This module focused on understanding different techniques and tools used to anal
 | Week 4 | Learned how to collect and extract data using spreadsheets, APIs, and web scraping tools.And practiced automating data collection using Playwright, CLI tools, and GitHub Actions. |
 | Week 5 | Learned how to clean, transform, and prepare raw data using tools like Excel, command-line utilities, DuckDB, and OpenRefine.Practiced working with structured and semi-structured data such as JSON, images, and audio transcripts. |
 | Week 6 | Learned how to analyze datasets using different tools such as Excel, Python, SQL, and database systems. I explored techniques like correlation, regression, forecasting, and outlier detection to understand relationships and patterns in data. I also learned advanced topics such as AI-assisted analysis, geospatial analysis, and network analysis to extract deeper insights from complex datasets. | 
+
 ---
 
 
