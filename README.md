@@ -284,6 +284,7 @@ This module focused on understanding different techniques and tools used to anal
 | Week 3 | Learned how AI systems use embeddings, vector databases, and RAG to retrieve and generate meaningful responses.I practiced working with APIs, multimodal data, function calling, and similarity-based search techniques. |
 | Week 4 | Learned how to collect and extract data using spreadsheets, APIs, and web scraping tools.And practiced automating data collection using Playwright, CLI tools, and GitHub Actions. |
 | Week 5 | Learned how to clean, transform, and prepare raw data using tools like Excel, command-line utilities, DuckDB, and OpenRefine.Practiced working with structured and semi-structured data such as JSON, images, and audio transcripts. |
+| Week 6 | Learned how to analyze datasets using different tools such as Excel, Python, SQL, and database systems. I explored techniques like correlation, regression, forecasting, and outlier detection to understand relationships and patterns in data. I also learned advanced topics such as AI-assisted analysis, geospatial analysis, and network analysis to extract deeper insights from complex datasets. | 
 ---
 
 
