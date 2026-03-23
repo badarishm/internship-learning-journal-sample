@@ -266,7 +266,7 @@ This module focused on understanding different techniques and tools used to anal
 
 12. Understood how combining different tools (Excel, Python, SQL, databases, and AI) can provide powerful insights from complex data.
 
-#  Week 7 – Learnings:
+#  Week 7 – Learnings
 
 1. Learned the importance of data visualization in presenting complex data in a simple and understandable format.
 
